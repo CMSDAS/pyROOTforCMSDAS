@@ -24,4 +24,4 @@ We will be using the Jupyter instance at CERN using Swan.
 
 5. Go to exercises.ipynb and follow the instructions
 
-([Sixth set pre-exercises Twiki](https://twiki.cern.ch/twiki/bin/viewauth/CMS/SWGuideCMSDataAnalysisSchoolPreExerciseSixthSet))
+([Sixth set pre-exercises Twiki](https://twiki.cern.ch/twiki/bin/view/CMS/SWGuideCMSDASAtCERNPreExerciseSixthSet))
