@@ -7,14 +7,14 @@ We will be using the Jupyter instance at CERN using Swan.
 
 [https://swan.cern.ch/](https://swan.cern.ch/)
 
-1. Select the default configuration
+1. Select the default configuration by clicking "Start my session"
 <p align="center">
-  <img src="pictures/default.png" width="500"/>
+  <img src="pictures/default.png" width="200"/>
 </p>
 
 2. Download project from git clicking the cloud icon
 <p align="center">
-  <img src="pictures/cloud.png" width="500"/>
+  <img src="pictures/cloud.png" width="700"/>
 </p>
 
 3. Paste https://github.com/CMSDAS/pyROOTforCMSDAS.git and click download
